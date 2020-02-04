@@ -1,0 +1,2 @@
+class CatPartiesController < ApplicationController
+end
